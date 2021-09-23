@@ -1,5 +1,4 @@
-![wp3694329](https://user-images.githubusercontent.com/85345738/134573496-a880ad35-79fe-4220-ae71-60394d5633f7.jpg)
-![2512681](https://user-images.githubusercontent.com/85345738/134573656-1dea35a8-3fc5-4c1f-a25e-5b90e18bb346.jpg)
+![rsz_1rsz_2512681](https://user-images.githubusercontent.com/85345738/134574474-5e68766e-fc4b-4b5c-9737-2b7d046ead03.jpg)
 
 
 - 👋 Hello World! , I’m @Sabuja-GH
