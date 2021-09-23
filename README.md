@@ -1,4 +1,5 @@
-![rsz_1rsz_2512681](https://user-images.githubusercontent.com/85345738/134574474-5e68766e-fc4b-4b5c-9737-2b7d046ead03.jpg)
+![rsz_wp3694329](https://user-images.githubusercontent.com/85345738/134574786-a62dd13f-ebc3-4650-8064-fbf8815cd1c8.jpg)
+
 
 
 - 👋 Hello World! , I’m @Sabuja-GH
