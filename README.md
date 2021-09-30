@@ -4,7 +4,7 @@
 - 👀 I’m interested in DATA🙉😻🤍
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 📫 Reach me @ https://www.linkedin.com/in/sabuja-sanket-parida-75246b150/
 
 <!---
 Sabuja-GH/Sabuja-GH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
