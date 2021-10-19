@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Are+you+to+paying+attention?;May+the+source+be+with+you!)](https://git.io/typing-svg)
 
-- 👋 Hello World! , I’m @Sabuja-GH
-- 👀 I’m interested in DATA🙉😻🤍
+- 👋 Hello World! , I’m sabuja
+- 👀 I’m interested in Data and Blockchiain
 - 🌱 I’m currently learning Deep Learning
-- 📫 Reach me @ https://www.linkedin.com/in/sabuja-sanket-parida-75246b150/
+- 📫 Reach me at <a href="https://www.linkedin.com/in/sabuja-sanket-parida-75246b150/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabuja-GH&theme=gotham&show_icons=true&count_private=true)
