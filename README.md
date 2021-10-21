@@ -1,6 +1,6 @@
 ![181-1813603_star-wars-luke-wallpaper-ultra-wide-ultrawide-wallpaper](https://user-images.githubusercontent.com/85345738/134575642-5b840c09-d8f0-4cd4-b35a-41f4c8b96819.jpg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Are+you+to+paying+attention?;May+the+source+be+with+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Are+you+paying+attention?;May+the+source+be+with+you!)](https://git.io/typing-svg)
 
 - 👋 Hello World! , I’m sabuja
 - 👀 I’m interested in Data and Blockchain
