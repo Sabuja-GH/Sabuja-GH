@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Are+you+paying+attention?;May+the+source+be+with+you!)](https://git.io/typing-svg)
 
-- 👋 Hello World! , I’m sabuja
-- 👀 I’m interested in Data and Blockchain
-- 🌱 I’m currently learning Deep Learning
+- 👋 Hello World! , I’m sabuja.
+- 👀 I’m interested in Data and Blockchain.
+- 🌱 I’m currently exploring Deep Learning and Blockchain.
 - 📫 Reach me at <a href="https://www.linkedin.com/in/sabuja-sanket-parida-75246b150/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 
 
