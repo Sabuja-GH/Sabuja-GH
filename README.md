@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Are+you+paying+attention?;May+the+source+be+with+you!)](https://git.io/typing-svg)
 
-
 - 👋 Hello World! , I’m sabuja.
 - 👀 I’m interested in Data and Blockchain.
 - 🌱 I’m currently exploring Deep Learning and Blockchain.
