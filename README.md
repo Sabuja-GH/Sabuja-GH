@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/sabuja-sanket-parida-75246b150/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:sabuja1234.q@gmail.com?subject=Hi%20Jayit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
-<img align="right" height="310px" alt="GIF" src="https://user-images.githubusercontent.com/85345738/138391712-22975042-d61b-41c4-8b46-23db9a521da1.gif" />
+<img align="right" height="290px" alt="GIF" src="https://user-images.githubusercontent.com/85345738/138391712-22975042-d61b-41c4-8b46-23db9a521da1.gif" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabuja-GH&theme=gotham&show_icons=true&count_private=true)
 
