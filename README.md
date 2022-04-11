@@ -4,7 +4,7 @@
 
 - 👋 Hello World! , I’m sabuja.
 - 👀 I’m interested in Data and Blockchain.
-- 🌱 I’m currently exploring Virtual Machines and Blockchain.
+- 🌱 I’m currently exploring Web development and Blockchain.
 - 📫 Reach me at :
 
 <a href="https://www.instagram.com/sabuja_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
